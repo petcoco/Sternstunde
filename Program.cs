@@ -10,6 +10,7 @@ namespace Helloworld
             {
                 System.Console.WriteLine("Helloworld 이름");
                 System.Console.WriteLine("이렇게 치는거야");
+                System.Console.WriteLine("알겠니?");
                 System.Console.ReadKey();
                 return;
             }
