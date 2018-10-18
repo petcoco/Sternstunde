@@ -1,4 +1,4 @@
-﻿
+﻿using System;
 
 namespace Helloworld
 {
@@ -12,7 +12,7 @@ namespace Helloworld
                 System.Console.ReadKey();
                 return;
             }
-            System.Console.WriteLine("Hello {0}!",args[0]);
+            System.Console.WriteLine("Hello! Nice to meet you!! {0}!",args[0]);
             System.Console.ReadKey();
 
         }
