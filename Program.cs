@@ -8,7 +8,8 @@ namespace Helloworld
         {
             if(args.Length==0)
             {
-                System.Console.WriteLine("Helloworld 이름");
+                System.Console.WriteLine("이렇게 입력하세요 : Helloworld 이름");
+				System.Console.WriteLine("HAHAHAHAHA")
                 System.Console.ReadKey();
                 return;
             }
